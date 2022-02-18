@@ -1,0 +1,1 @@
+export const MONGO_URI = 'mongodb+srv://mason:1234@cluster0.ywscm.mongodb.net/myFirstDatabase'
